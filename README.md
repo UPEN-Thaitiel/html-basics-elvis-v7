@@ -33,6 +33,8 @@ This repo consist of 4 directories, in each directory you wil find 2 files per t
 |------------------------------------------|------------------------------------------|-----------------------------------------------|-------------------------------|--------------------------|--------------------------|
 |  **20%**  |**Heading Element**  | Matches the png image?   |    |          |       | 
 | **20%**  |**Paragraph Element** | Matches the png image?               |        |   |    | 
-| **20%**  |**Void Element**      | Matches the png image?       |        | |  | 
+| **20%**  |**Void Element**      | Matches the png image?       |  X      | |  | 
 | **40%**  |**Movie Ranking** | Matches the png image?         |    |    | | 
+
+## Elvis, you are missing 3 deliverables, please update your code ASAP.
 
